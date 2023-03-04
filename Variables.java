@@ -1,5 +1,3 @@
-import java.net.SocketImpl;
-import java.net.SocketPermission;
 
 public class Variables {
     public static void main(String[] args) {
