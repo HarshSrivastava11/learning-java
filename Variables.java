@@ -1,5 +1,11 @@
+import java.net.SocketImpl;
+import java.net.SocketPermission;
+
 public class Variables {
     public static void main(String[] args) {
-        
+        int age = 20;
+
+        System.out.println("I am " + age + " years old.");
+
     }
 }
